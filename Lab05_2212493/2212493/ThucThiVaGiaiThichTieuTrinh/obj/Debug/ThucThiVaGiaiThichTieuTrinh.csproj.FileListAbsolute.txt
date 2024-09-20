@@ -1,0 +1,7 @@
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\bin\Debug\ThucThiVaGiaiThichTieuTrinh.exe.config
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\bin\Debug\ThucThiVaGiaiThichTieuTrinh.exe
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\bin\Debug\ThucThiVaGiaiThichTieuTrinh.pdb
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\obj\Debug\ThucThiVaGiaiThichTieuTrinh.csproj.AssemblyReference.cache
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\obj\Debug\ThucThiVaGiaiThichTieuTrinh.csproj.CoreCompileInputs.cache
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\obj\Debug\ThucThiVaGiaiThichTieuTrinh.exe
+Z:\Lab05_2212493\2212493\ThucThiVaGiaiThichTieuTrinh\obj\Debug\ThucThiVaGiaiThichTieuTrinh.pdb
