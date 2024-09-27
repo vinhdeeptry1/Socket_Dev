@@ -1,0 +1,13 @@
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe.config
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Form1.resources
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.Properties.Resources.resources
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\Downloads\AsyncSocketServer\AsyncSocketServer\AsyncSocketServer\obj\Debug\AsyncSocketServer.csproj.CopyComplete
